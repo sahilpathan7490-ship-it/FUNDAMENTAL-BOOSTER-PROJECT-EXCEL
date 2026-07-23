@@ -209,8 +209,3 @@ After completing this project, you will understand:
 
 **Pathan Sahil**
 
-
-
-## 📄 License
-
-This project is created f
